@@ -1,4 +1,8 @@
-# Hi, I'm Alina 👋
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
+
+## Hi, I'm Alina
 
 I'm an IT Security student working towards becoming a cybersecurity specialist. I use this space to document my hands-on labs, experiments and projects as I develop my technical skills.
 
