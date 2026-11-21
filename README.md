@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alina 👋
 
-<!--
-**alinanystrom/alinanystrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Security student working towards becoming a cybersecurity specialist. I use this space to document my hands-on labs, experiments and projects as I develop my technical skills.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying IT Security
+- 🛡️ Interested in Blue Team, Threat Detection and DFIR
+- 💻 Learning through practical exercises and security labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Security Monitoring & Log Analysis
+- Network Traffic Analysis
+- Incident Detection & Investigation
+
+## Tools & Technologies
+- Windows Server & Active Directory
+- PowerShell
+- Cisco Packet Tracer
+- Hyper-V
+- VirtualBox
+- TryHackMe
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/alina-nyström-616ba8150/
+
+---
