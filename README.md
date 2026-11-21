@@ -24,6 +24,9 @@ I'm an IT Security student working towards becoming a cybersecurity specialist. 
 - VirtualBox
 - TryHackMe
 
+## Projects
+- [Hyper-V Windows Logon Auditing Lab](https://github.com/alinanystrom/hyperv-windows-login-audit): a beginner lab where I audit successful and failed Windows logons (events 4624/4625) with Event Viewer and PowerShell.
+
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/alina-nyström-616ba8150/
 
